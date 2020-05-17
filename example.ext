@@ -1,1 +1,29 @@
+arg_list = { melin, filiz, ece, murat, taha }
+output = 
+melin
+filiz
+ece
+murat
+taha
 
+
+
+arg_list = { melis, simge, dilan, deniz, tunç, can, tarık, cem, cenk, ege, melih, ahmet, mehmet, burak, berk, murat, lara, yağmur, damla, beste }
+output = 
+melis
+simge
+dilan
+deniz
+tunç
+can
+tarık
+cem
+cenk
+ege
+melih
+ahmet
+mehmet
+burak
+berk
+murat
+lara
